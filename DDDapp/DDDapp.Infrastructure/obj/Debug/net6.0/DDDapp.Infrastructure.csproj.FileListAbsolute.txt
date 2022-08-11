@@ -1,0 +1,17 @@
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\bin\Debug\net6.0\DDDapp.Infrastructure.deps.json
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\bin\Debug\net6.0\DDDapp.Infrastructure.dll
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\bin\Debug\net6.0\DDDapp.Infrastructure.pdb
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\obj\Debug\net6.0\DDDapp.Infrastructure.csproj.AssemblyReference.cache
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\obj\Debug\net6.0\DDDapp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\obj\Debug\net6.0\DDDapp.Infrastructure.AssemblyInfoInputs.cache
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\obj\Debug\net6.0\DDDapp.Infrastructure.AssemblyInfo.cs
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\obj\Debug\net6.0\DDDapp.Infrastructure.csproj.CoreCompileInputs.cache
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\obj\Debug\net6.0\DDDapp.Infrastructure.dll
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\obj\Debug\net6.0\refint\DDDapp.Infrastructure.dll
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\obj\Debug\net6.0\DDDapp.Infrastructure.pdb
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\obj\Debug\net6.0\ref\DDDapp.Infrastructure.dll
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\bin\Debug\net6.0\DDDapp.Application.dll
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\bin\Debug\net6.0\DDDapp.Domain.dll
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\bin\Debug\net6.0\DDDapp.Application.pdb
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\bin\Debug\net6.0\DDDapp.Domain.pdb
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Infrastructure\obj\Debug\net6.0\DDDapp.Infrastructure.csproj.CopyComplete

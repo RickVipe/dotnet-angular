@@ -1,0 +1,12 @@
+GET https://localhost:7208/api/
+
+
+###
+POST https://localhost:7208/api/add
+Content-Type: application/json
+
+{
+    "FirstName" : "Carl",
+    "LastName" : "Marx",
+    "Email" : "c.marx@ussr.ru"
+}

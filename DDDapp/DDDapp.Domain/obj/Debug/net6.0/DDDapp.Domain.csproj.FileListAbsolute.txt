@@ -1,0 +1,12 @@
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\bin\Debug\net6.0\DDDapp.Domain.deps.json
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\bin\Debug\net6.0\DDDapp.Domain.dll
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\bin\Debug\net6.0\DDDapp.Domain.pdb
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\obj\Debug\net6.0\DDDapp.Domain.csproj.AssemblyReference.cache
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\obj\Debug\net6.0\DDDapp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\obj\Debug\net6.0\DDDapp.Domain.AssemblyInfoInputs.cache
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\obj\Debug\net6.0\DDDapp.Domain.AssemblyInfo.cs
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\obj\Debug\net6.0\DDDapp.Domain.csproj.CoreCompileInputs.cache
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\obj\Debug\net6.0\DDDapp.Domain.dll
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\obj\Debug\net6.0\refint\DDDapp.Domain.dll
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\obj\Debug\net6.0\DDDapp.Domain.pdb
+S:\Arbeit\Appliactions\DDDapp\DDDapp.Domain\obj\Debug\net6.0\ref\DDDapp.Domain.dll
