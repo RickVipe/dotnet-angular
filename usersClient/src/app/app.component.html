@@ -1,11 +1,16 @@
-<div style="margin: 20px; max-width: 1200px;">
-  <div style="display:flex">
+<div style="margin: 0 auto; max-width: 1200px;">
+  <div style="display:flex; margin-top: 45px;">
     <h2 style="margin: 0 auto">CRUD Users</h2>
   </div>
-  <div *ngIf="!isLoading">
+  <div>
     <mat-grid-list cols="2">
       <mat-grid-tile>
-        <div style="width: 100%; padding: 20px 40px;">
+
+        <div *ngIf="users.length <= 0">
+          <h4>There are no Users registered, please add a new one.</h4>
+        </div>
+
+        <div *ngIf="users.length >= 1" style="width: 100%; padding: 20px 40px;">
           <div class="div-table" fxLayout="column" fxFlexFill>
 
             <table mat-table [dataSource]="DataSource" matSort class='repTable mat-elevation-z8' fxFlexFill>

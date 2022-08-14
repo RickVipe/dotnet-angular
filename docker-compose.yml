@@ -1,0 +1,18 @@
+version: '3.4'
+
+services:
+  webapi:
+    image: ${DOCKER_REGISTRY-}webapi
+    build:
+      context: ./DDDapp
+      dockerfile: ./Dockerfile
+    ports:
+      - 3000:80
+
+  webapp:
+    image: ${DOCKER_REGISTRY-}angular_app
+    build:
+      context: ./usersClient
+      dockerfile: ./Dockerfile
+    ports:
+      - 4300:80
