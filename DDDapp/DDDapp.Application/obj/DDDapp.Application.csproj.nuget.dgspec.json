@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Application\\DDDapp.Application.csproj": {}
+    "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Application\\DDDapp.Application.csproj": {}
   },
   "projects": {
-    "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Application\\DDDapp.Application.csproj": {
+    "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Application\\DDDapp.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Application\\DDDapp.Application.csproj",
+        "projectUniqueName": "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Application\\DDDapp.Application.csproj",
         "projectName": "DDDapp.Application",
-        "projectPath": "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Application\\DDDapp.Application.csproj",
+        "projectPath": "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Application\\DDDapp.Application.csproj",
         "packagesPath": "C:\\Users\\Rick\\.nuget\\packages\\",
-        "outputPath": "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Application\\obj\\",
+        "outputPath": "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Domain\\DDDapp.Domain.csproj": {
-                "projectPath": "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Domain\\DDDapp.Domain.csproj"
+              "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Domain\\DDDapp.Domain.csproj": {
+                "projectPath": "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Domain\\DDDapp.Domain.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Domain\\DDDapp.Domain.csproj": {
+    "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Domain\\DDDapp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Domain\\DDDapp.Domain.csproj",
+        "projectUniqueName": "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Domain\\DDDapp.Domain.csproj",
         "projectName": "DDDapp.Domain",
-        "projectPath": "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Domain\\DDDapp.Domain.csproj",
+        "projectPath": "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Domain\\DDDapp.Domain.csproj",
         "packagesPath": "C:\\Users\\Rick\\.nuget\\packages\\",
-        "outputPath": "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Domain\\obj\\",
+        "outputPath": "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -115,6 +115,12 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Pxo7iHVBajZSRj7swilPhlKaU9OJR7rxpUZaoBIJQgt7VPV3WplU2WUhFz2sZIGDPJj1pWsXoSEUEFwzxlYD4g==",
+  "dgSpecHash": "Qht0t35aOEk5ys1I5bBTkhDAbw1WqUBvFWGt0w+fbzd2phxs1TNcMIZ+IRElaMefJPDNdlNspz4N1mF8Dxq91Q==",
   "success": true,
-  "projectFilePath": "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Domain\\DDDapp.Domain.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Domain\\DDDapp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rick\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,0 +1,145 @@
+mat-form-field.mat-form-field {
+  font-size: 0.9rem;
+}
+
+mat-option.mat-option {
+  height: 2.5em;
+}
+
+table.mat-table.repTable {
+  margin-bottom: 30px;
+  margin: 0 auto;
+}
+
+.example-container {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 300px;
+}
+
+.mat-table {
+  overflow: auto;
+  /*max-height: 500px; */
+}
+
+.mat-column-name,
+.mat-cell {
+  border-right: 1px solid grey;
+  align-self: stretch;
+  text-align: center;
+  padding: 5px 4px;
+  line-height: 0.95rem;
+  font-size: 0.75rem;
+}
+
+.mat-header-cell {
+  border-top: 1px solid grey;
+  border-right: 1px solid grey;
+  align-self: stretch;
+  padding: 0px 4px;
+}
+
+.mat-column-position {
+  border-right: 1px solid grey;
+  align-self: stretch;
+  text-align: center;
+}
+
+.mat-column-weight {
+  border-right: 1px solid grey;
+  align-self: stretch;
+  text-align: center;
+}
+
+.mat-column-symbol {
+  text-align: center;
+  align-self: stretch;
+}
+
+th.mat-header-cell:first-of-type,
+td.mat-cell:first-of-type,
+td.mat-footer-cell:first-of-type {
+  padding-left: 4px;
+  border-left: 1px solid grey;
+}
+
+th.mat-header-cell:last-of-type,
+td.mat-cell:last-of-type,
+td.mat-footer-cell:last-of-type {
+  padding-right: 4px;
+}
+
+div.loader {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+mat-footer-row.mat-footer-row.cdk-footer-row.hideRow.ng-star-inserted {
+  display: none;
+}
+
+mat-footer-row mat-footer-cell {
+  justify-content: center;
+  font-style: italic;
+}
+
+tr.mat-header-row {
+  height: 40px;
+}
+
+div.btnCreate {
+  margin: 0 auto;
+}
+
+div.searchInput mat-form-field.search-form-field {
+  width: 400px;
+}
+
+div.create-button {
+  top: 0;
+  opacity: 1.0;
+  padding: 0 15px;
+  z-index: 99;
+  border-radius: 6px;
+  max-width: 600px;
+  margin: 20px 0;
+}
+
+.mat-row:nth-child(even) {
+  background-color: rgb(230, 230, 230);
+}
+
+.mat-row:nth-child(odd) {
+  background-color: rgb(255, 255, 255);
+}
+
+div.div-table table {
+  margin-bottom: 30px;
+}
+
+div.pager {
+  display: flex;
+}
+
+div.pager mat-paginator {
+  margin: 0 auto;
+}
+
+
+/* ########################################################################### */
+
+@media only screen and (max-width: 600px) {
+  div.btnCreate {
+      margin-right: 0 auto;
+      margin-top: 15px;
+  }
+  div.searchInput {
+      width: 95%;
+  }
+  div.searchInput mat-form-field.search-form-field {
+      width: 100%;
+  }
+}

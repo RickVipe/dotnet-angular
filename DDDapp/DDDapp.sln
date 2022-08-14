@@ -1,23 +1,22 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30114.105
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDapp.Api", "DDDapp.Api\DDDapp.Api.csproj", "{EA1D961C-F0FE-4487-89A8-E6632E6769E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDapp.Api", "DDDapp.Api\DDDapp.Api.csproj", "{EA1D961C-F0FE-4487-89A8-E6632E6769E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDapp.Application", "DDDapp.Application\DDDapp.Application.csproj", "{76D9212F-F067-451E-A8AD-243EE1CB143C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDapp.Application", "DDDapp.Application\DDDapp.Application.csproj", "{76D9212F-F067-451E-A8AD-243EE1CB143C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDapp.Domain", "DDDapp.Domain\DDDapp.Domain.csproj", "{DF9C6B50-5471-4B8E-A049-EE72EDA99C76}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDapp.Domain", "DDDapp.Domain\DDDapp.Domain.csproj", "{DF9C6B50-5471-4B8E-A049-EE72EDA99C76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDDapp.Infrastructure", "DDDapp.Infrastructure\DDDapp.Infrastructure.csproj", "{FF7416A3-93F8-4E32-82F4-5680A8F19880}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DDDapp.Infrastructure", "DDDapp.Infrastructure\DDDapp.Infrastructure.csproj", "{FF7416A3-93F8-4E32-82F4-5680A8F19880}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{7EE094E1-A573-4EAB-A44C-CCCAD3C54BB3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{EA1D961C-F0FE-4487-89A8-E6632E6769E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -36,5 +35,15 @@ Global
 		{FF7416A3-93F8-4E32-82F4-5680A8F19880}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF7416A3-93F8-4E32-82F4-5680A8F19880}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF7416A3-93F8-4E32-82F4-5680A8F19880}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE094E1-A573-4EAB-A44C-CCCAD3C54BB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE094E1-A573-4EAB-A44C-CCCAD3C54BB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE094E1-A573-4EAB-A44C-CCCAD3C54BB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE094E1-A573-4EAB-A44C-CCCAD3C54BB3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {280E6385-D063-4D4C-9FF3-6918A49A4D38}
 	EndGlobalSection
 EndGlobal

@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "FfG9fkMcXn2x5C4cflcamKeMBmaV3HSfd3gOpn/Ax/nO1cj7mYxWpmEkDv84A//yrWXkoMWEmXCkUEiVKcoObA==",
+  "dgSpecHash": "cHYwbLBCqoxAWdPBfNZoMNyb4JTnWUluLgmbYT2k1S01QXM1VbdvVU5jGhpqU2PtgxIqU2NURwt8zfofSEeLhA==",
   "success": true,
-  "projectFilePath": "S:\\Arbeit\\Appliactions\\DDDapp\\DDDapp.Infrastructure\\DDDapp.Infrastructure.csproj",
+  "projectFilePath": "S:\\Arbeit\\Appliactions\\DDDApp\\DDDapp.Infrastructure\\DDDapp.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rick\\.nuget\\packages\\automapper\\11.0.0\\automapper.11.0.0.nupkg.sha512",
     "C:\\Users\\Rick\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "C:\\Users\\Rick\\.nuget\\packages\\fluentvalidation\\11.2.0\\fluentvalidation.11.2.0.nupkg.sha512",
     "C:\\Users\\Rick\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Rick\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\Rick\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",

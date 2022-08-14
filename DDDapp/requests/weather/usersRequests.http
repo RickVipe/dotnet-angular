@@ -1,5 +1,6 @@
 GET https://localhost:7208/api/
-
+###
+GET http://localhost:3000/api/
 
 ###
 POST https://localhost:7208/api/add
@@ -9,4 +10,24 @@ Content-Type: application/json
     "FirstName" : "Carl",
     "LastName" : "Marx",
     "Email" : "c.marx@ussr.ru"
+}
+
+###
+POST http://localhost:3000/api/add
+Content-Type: application/json
+
+{
+    "FirstName" : "Lucas",
+    "LastName" : "Perez",
+    "Email" : "lPerez@mail.com"
+}
+
+###
+PUT http://localhost:3000/api/6036343d-253c-42e4-843d-fab0baf46e92
+Content-Type: application/json
+
+{
+    "FirstName" : "Name updated",
+    "LastName" : "Last Name",
+    "Email" : "updated@mail.com"
 }
